@@ -71,7 +71,7 @@ Controla toda a lógica do player:
 🎬 Demonstração
 
 📸 Preview do projeto:
-
+![](https://imgur.com/6594q1t.gif)
 
 👨‍💻 Autor
 
